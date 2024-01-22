@@ -7,7 +7,7 @@ const path = require('path');  // Add this line
 
 
 const app = express();
-const port = 3000;
+const port = 8080;
 
 const pool = new Pool({
     user: 'srinivas',
