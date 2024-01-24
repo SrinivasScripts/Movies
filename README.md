@@ -14,11 +14,16 @@ The Movie Dashboard App is a web application designed to streamline the manageme
 
 ## Table of Contents
 
+- [Dependencies](#Dependencies)
 - [Installation](#installation)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- 
+## Dependencies
 
+- Node.js: [Download Node.js](https://nodejs.org/)
+- PostgreSQL: [Download PostgreSQL](https://www.postgresql.org/)
 ## Installation
 
 # Install Node.js dependencies
